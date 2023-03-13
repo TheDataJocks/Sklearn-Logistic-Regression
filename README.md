@@ -4,7 +4,9 @@ Contents
 --------
 
 Logistic Regression Example -- .ipynb -- A Jupyter Notebook containing the example code
+
 data -- .csv -- a comma separated value file containing data about past NFL games
+
 conversions -- .csv -- a comma separated value file containing the conversions between NFL teams' long-form names and their three letter abbreviations
 
 
